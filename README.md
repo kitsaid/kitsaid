@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @kitsaid
-- 👀 I’m interested in training load monitoring via wearable technology and statistical modelling
-- 📔 I’m currently a M.Sc. student at Simon Fraser University in Biomedical Physiology & Kinesiology
+
+- I’m interested in training load monitoring via wearable technology and statistical modelling
+- I’m currently a M.Sc. student at Simon Fraser University in Biomedical Physiology & Kinesiology
   
 <!---- 
-- 📫 Connect with me via email: aidankits@gmail.com
+- Connect with me via email: aidankits@gmail.com
 --->
 
 <!---
